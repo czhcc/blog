@@ -66,3 +66,9 @@ https://github.com/OpenLMLab/MOSS <br/>
 <br/>
 RLHF <br/>
 https://github.com/sunzeyeah/RLHF <br/>
+<br/>
+面向开发者的 ChatGPT 提示词工程 <br/>
+https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese <br/>
+<br/>
+ddg接口说明 <br/>
+https://github.com/deedy5/duckduckgo_search <br/>
