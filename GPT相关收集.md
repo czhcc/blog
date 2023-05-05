@@ -72,3 +72,7 @@ https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chin
 <br/>
 ddg接口说明 <br/>
 https://github.com/deedy5/duckduckgo_search <br/>
+<br/>
+LangChain官网 <br/>
+https://docs.langchain.com/docs/  <br/>
+<br/>
