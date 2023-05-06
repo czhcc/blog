@@ -76,3 +76,6 @@ https://github.com/deedy5/duckduckgo_search <br/>
 LangChain官网 <br/>
 https://docs.langchain.com/docs/  <br/>
 <br/>
+LangChain 中文入门教程 <br/>
+https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide <br/>
+<br/>
