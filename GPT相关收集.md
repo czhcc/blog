@@ -79,3 +79,6 @@ https://docs.langchain.com/docs/  <br/>
 LangChain 中文入门教程 <br/>
 https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide <br/>
 <br/>
+全新的大模型评估范式——PandaLM。PandaLM 通过训练一个专门用于评估的大模型，对大模型能力进行自动化且可复现的测试验证。 <br/>
+GitHub地址：https://github.com/WeOpenML/PandaLM <br/>
+<br/>
