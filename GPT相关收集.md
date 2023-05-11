@@ -84,4 +84,7 @@ https://github.com/WeOpenML/PandaLM <br/>
 <br/>
 langchain相关 <br/>
 https://github.com/imClumsyPanda/langchain-ChatGLM <br/>
+https://github.com/yanqiangmiffy/Chinese-LangChain <br/>
+https://python.langchain.com/en/latest/modules/models/llms/getting_started.html <br/>
+https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide <br/>
 <br/>
