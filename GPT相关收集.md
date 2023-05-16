@@ -88,3 +88,9 @@ https://github.com/yanqiangmiffy/Chinese-LangChain <br/>
 https://python.langchain.com/en/latest/modules/models/llms/getting_started.html <br/>
 https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide <br/>
 <br/>
+stabilityai公司相关 <br/>
+组画生成 <br/>
+https://huggingface.co/spaces/stabilityai/stable-diffusion <br/>
+其它模型 <br/>
+https://huggingface.co/stabilityai <br/>
+<br/>
