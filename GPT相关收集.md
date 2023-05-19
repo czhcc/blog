@@ -95,3 +95,7 @@ https://huggingface.co/spaces/stabilityai/stable-diffusion <br/>
 其它模型 <br/>
 https://huggingface.co/stabilityai <br/>
 <br/>
+关于提取的训练算法 <br/>
+https://github.com/zjunlp/DeepKE <br/>
+https://github.com/ymcui/Chinese-BERT-wwm <br/>
+<br/>
