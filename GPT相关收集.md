@@ -99,3 +99,6 @@ https://huggingface.co/stabilityai <br/>
 https://github.com/zjunlp/DeepKE <br/>
 https://github.com/ymcui/Chinese-BERT-wwm <br/>
 <br/>
+Meta 开源能识别 4000 种语言、生成 1000 多种语音大模型 <br/>
+https://github.com/facebookresearch/fairseq/tree/main/examples/mms <br/>
+<br/>
