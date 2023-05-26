@@ -27,6 +27,9 @@ https://lslfd0slxc.feishu.cn/docx/JAgsd5WVgoZ1bKxYzq0c8gh5neh <br/>
 https://github.com/mymusise/ChatGLM-Tuning <br/>
 https://github.com/liucongg/ChatGLM-Finetuning <br/>
 <br/>
+续写 <br/>
+https://github.com/ypwhs/CreativeChatGLM <br/>
+<br/>
 中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成 <br/>
 https://github.com/yanqiangmiffy/Chinese-LangChain <br/>
 <br/>
