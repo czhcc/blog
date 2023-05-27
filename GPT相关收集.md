@@ -70,6 +70,9 @@ https://github.com/OpenLMLab/MOSS <br/>
 RLHF <br/>
 https://github.com/sunzeyeah/RLHF <br/>
 <br/>
+BloomChat开发相关 <br/>
+https://github.com/huggingface/transformers-bloom-inference <br/>
+<br/>
 面向开发者的 ChatGPT 提示词工程 <br/>
 https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese <br/>
 <br/>
