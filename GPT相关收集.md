@@ -109,3 +109,6 @@ https://github.com/ymcui/Chinese-BERT-wwm <br/>
 Meta 开源能识别 4000 种语言、生成 1000 多种语音大模型 <br/>
 https://github.com/facebookresearch/fairseq/tree/main/examples/mms <br/>
 <br/>
+雅意大模型 <br/>
+https://huggingface.co/wenge-research/yayi-7b <br/>
+<br/>
