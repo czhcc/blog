@@ -113,3 +113,6 @@ https://github.com/facebookresearch/fairseq/tree/main/examples/mms <br/>
 雅意大模型 <br/>
 https://huggingface.co/wenge-research/yayi-7b <br/>
 <br/>
+训练跟踪 <br/>
+https://github.com/aimhubio/aim <br/>
+<br/>
