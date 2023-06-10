@@ -116,3 +116,7 @@ https://huggingface.co/wenge-research/yayi-7b <br/>
 训练跟踪 <br/>
 https://github.com/aimhubio/aim <br/>
 <br/>
+智源研究院 <br/>
+https://huggingface.co/BAAI <br/>
+https://github.com/FlagAI-Open/FlagAI/blob/master/README_zh.md <br/>
+<br/>
