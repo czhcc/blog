@@ -120,3 +120,6 @@ https://github.com/aimhubio/aim <br/>
 https://huggingface.co/BAAI <br/>
 https://github.com/FlagAI-Open/FlagAI/blob/master/README_zh.md <br/>
 <br/>
+postgresml <br/>
+https://github.com/postgresml/postgresml <br/>
+<br/>
