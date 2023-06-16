@@ -71,6 +71,9 @@ https://github.com/OpenLMLab/MOSS <br/>
 RLHF <br/>
 https://github.com/sunzeyeah/RLHF <br/>
 <br/>
+百川 <br/>
+https://github.com/baichuan-inc/baichuan-7B <br/>
+<br/>
 BloomChat开发相关 <br/>
 https://github.com/huggingface/transformers-bloom-inference <br/>
 <br/>
