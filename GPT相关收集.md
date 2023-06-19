@@ -55,6 +55,7 @@ https://huggingface.co/IDEA-CCNL/Randeng-TransformerXL-5B-Abduction-Chinese <br/
 <br/>
 提示的写法 <br/>
 https://jerryzou.com/posts/how-to-write-a-prompt-for-chatgpt/ <br/>
+https://open.bigmodel.cn/openpower <br/>
 <br/>
 HuggingGPT <br/>
 https://github.com/microsoft/JARVIS <br/>
