@@ -9,6 +9,10 @@ https://github.com/facebookresearch/llama <br/>
 模型文件下载 <br/>
 https://ipfs.io/ipfs/Qmb9y5GCkTG7ZzbBWMu2BXwMkzyCKcUjtEKPpgdZ7GEFKm/ <br/>
 <br/>
+Vicuna—UC <br/>
+https://huggingface.co/lmsys/vicuna-13b-delta-v1.1 <br/>
+https://lmsys.org/blog/2023-03-30-vicuna/ <br/>
+<br/>
 有关的一些新微调方式 <br/>
 https://huggingface.co/blog/stackllama <br/>
 https://github.com/lm-sys/FastChat/#fine-tuning <br/>
