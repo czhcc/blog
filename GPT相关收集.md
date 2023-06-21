@@ -38,6 +38,11 @@ BELLE(基于BLOOM和LLAMA针对中文做了优化) <br/>
 https://github.com/LianjiaTech/BELLE <br/>
 https://huggingface.co/BelleGroup/BELLE-7B-2M <br/>
 <br/>
+OpenChatKit <br/>
+https://github.com/togethercomputer/OpenChatKit <br/>
+https://openchatkit.net/ <br/>
+https://huggingface.co/EleutherAI/gpt-neox-20b <br/>
+https://huggingface.co/EleutherAI/gpt-j-6b <br/>
 <br/>
 中文LLaMA模型和经过指令精调的Alpaca大模型 <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
