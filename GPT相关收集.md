@@ -79,6 +79,9 @@ https://github.com/Significant-Gravitas/Auto-GPT <br/>
 MOSS <br/>
 https://github.com/OpenLMLab/MOSS <br/>
 <br/>
+OpenKG KnowLM <br/>
+https://github.com/zjunlp/KnowLM <br/>
+<br/>
 RLHF <br/>
 https://github.com/sunzeyeah/RLHF <br/>
 <br/>
