@@ -17,6 +17,10 @@ https://lmsys.org/blog/2023-03-30-vicuna/ <br/>
 https://huggingface.co/blog/stackllama <br/>
 https://github.com/lm-sys/FastChat/#fine-tuning <br/>
 <br/>
+chatglm2 <br/>
+https://huggingface.co/THUDM/chatglm2-6b/tree/main <br/>
+https://github.com/THUDM/ChatGLM2-6B <br/>
+<br/>
 清华 <br/>
 https://github.com/THUDM/ChatGLM-6B <br/>
 https://models.aminer.cn/glm-130b/ <br/>
