@@ -95,6 +95,10 @@ https://github.com/sunzeyeah/RLHF <br/>
 百川 <br/>
 https://github.com/baichuan-inc/baichuan-7B <br/>
 <br/>
+中科院图片分割 <br/>
+https://github.com/CASIA-IVA-Lab/FastSAM <br/>
+https://huggingface.co/spaces/An-619/FastSAM <br/>
+<br/>
 BloomChat开发相关 <br/>
 https://github.com/huggingface/transformers-bloom-inference <br/>
 <br/>
