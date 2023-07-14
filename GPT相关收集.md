@@ -86,6 +86,12 @@ https://github.com/Significant-Gravitas/Auto-GPT <br/>
 MOSS <br/>
 https://github.com/OpenLMLab/MOSS <br/>
 <br/>
+IDEA-CCNL <br/>
+https://github.com/IDEA-CCNL/Fengshenbang-LM <br/>
+姜子牙通用大模型v1.1：https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-13B-v1.1 <br/>
+Ziya-Visual模型开源地址：https://huggingface.co/IDEA-CCNL/Ziya-BLIP2-14B-Visual-v1 <br/>
+代码模型：ziya-coding <br/>
+<br/>
 OpenKG KnowLM <br/>
 https://github.com/zjunlp/KnowLM <br/>
 <br/>
