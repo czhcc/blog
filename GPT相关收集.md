@@ -123,6 +123,9 @@ https://docs.langchain.com/docs/  <br/>
 https://github.com/hwchase17/langchain <br/>
 https://github.com/gkamradt/langchain-tutorials <br/>
 <br/>
+LangChain基于chatglm及Lora应用 <br/>
+https://github.com/liangwq/Chatglm_lora_multi-gpu/tree/main <br/>
+<br/>
 LangChain 中文入门教程 <br/>
 https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide <br/>
 <br/>
