@@ -28,6 +28,7 @@ https://github.com/THUDM/ChatGLM2-6B <br/>
 https://github.com/THUDM/ChatGLM-6B <br/>
 https://models.aminer.cn/glm-130b/ <br/>
 https://github.com/THUDM/GLM-130B <br/>
+https://github.com/THUDM/CodeGeeX2 <br/>
 glm-10b <br/>
 https://github.com/THUDM/GLM#generation <br/>
 ChatGLM创意 <br/>
