@@ -165,3 +165,6 @@ https://github.com/FlagAI-Open/FlagAI/blob/master/README_zh.md <br/>
 postgresml <br/>
 https://github.com/postgresml/postgresml <br/>
 <br/>
+法律 <br/>
+https://github.com/AndrewZhe/lawyer-llama <br/>
+<br/>
