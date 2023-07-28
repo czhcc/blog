@@ -168,3 +168,6 @@ https://github.com/postgresml/postgresml <br/>
 法律 <br/>
 https://github.com/AndrewZhe/lawyer-llama <br/>
 <br/>
+LlamaIndex <br/>
+https://github.com/jerryjliu/llama_index <br/>
+<br/>
