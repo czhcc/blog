@@ -4,6 +4,12 @@ https://github.com/wgwang/LLMs-In-China <br/>
 骆驼(Luotuo): Chinese-alpaca-lora <br/>
 https://github.com/LC1332/Chinese-alpaca-lora <br/>
 <br/>
+LlamaIndex <br/>
+https://github.com/jerryjliu/llama_index <br/>
+<br/>
+中文LLaMA模型和经过指令精调的Alpaca大模型 <br/>
+https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
+<br/>
 Stanford Alpaca: An Instruction-following LLaMA Model <br/>
 https://github.com/tatsu-lab/stanford_alpaca <br/>
 <br/>
@@ -55,9 +61,6 @@ https://github.com/togethercomputer/OpenChatKit <br/>
 https://openchatkit.net/ <br/>
 https://huggingface.co/EleutherAI/gpt-neox-20b <br/>
 https://huggingface.co/EleutherAI/gpt-j-6b <br/>
-<br/>
-中文LLaMA模型和经过指令精调的Alpaca大模型 <br/>
-https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
 <br/>
 Chinese-alpaca-lora <br/>
 https://github.com/fecet/alpaca-lora-Chinese <br/>
@@ -171,6 +174,6 @@ https://github.com/postgresml/postgresml <br/>
 法律 <br/>
 https://github.com/AndrewZhe/lawyer-llama <br/>
 <br/>
-LlamaIndex <br/>
-https://github.com/jerryjliu/llama_index <br/>
+零速科技 <br/>
+https://github.com/LinkSoul-AI/Chinese-Llama-2-7b <br/>
 <br/>
