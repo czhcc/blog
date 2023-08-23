@@ -180,3 +180,6 @@ https://github.com/AndrewZhe/lawyer-llama <br/>
 零速科技 <br/>
 https://github.com/LinkSoul-AI/Chinese-Llama-2-7b <br/>
 <br/>
+NL2SQL <br/>
+https://github.com/yechens/NL2SQL <br/>
+<br/>
