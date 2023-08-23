@@ -3,6 +3,7 @@ https://github.com/wgwang/LLMs-In-China <br/>
 <br/>
 开源中文LLM <br/>
 https://github.com/HqWu-HITCS/Awesome-Chinese-LLM <br/>
+https://github.com/DSXiangLi/DecryptPrompt <br/>
 <br/>
 骆驼(Luotuo): Chinese-alpaca-lora <br/>
 https://github.com/LC1332/Chinese-alpaca-lora <br/>
