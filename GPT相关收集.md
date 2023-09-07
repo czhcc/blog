@@ -109,6 +109,9 @@ https://github.com/sunzeyeah/RLHF <br/>
 百川 <br/>
 https://github.com/baichuan-inc/baichuan-7B <br/>
 <br/>
+TigerBot <br/>
+https://github.com/TigerResearch/TigerBot <br/>
+<br/>
 智析提取 <br/>
 https://github.com/zjunlp/KnowLM <br/>
 https://huggingface.co/zjunlp/zhixi-13b-diff <br/>
