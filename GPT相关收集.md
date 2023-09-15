@@ -11,6 +11,9 @@ https://github.com/LC1332/Chinese-alpaca-lora <br/>
 LlamaIndex <br/>
 https://github.com/jerryjliu/llama_index <br/>
 <br/>
+Atom <br/>
+https://github.com/FlagAlpha/Llama2-Chinese <br/>
+<br/>
 中文LLaMA模型和经过指令精调的Alpaca大模型 <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
 <br/>
