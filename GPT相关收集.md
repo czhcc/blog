@@ -17,6 +17,9 @@ https://github.com/FlagAlpha/Llama2-Chinese <br/>
 中文LLaMA模型和经过指令精调的Alpaca大模型 <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
 <br/>
+Llama-2中文预训练大模型（训练过程和程序） <br/>
+https://github.com/huxiaosheng123/open-llama2 <br/>
+<br/>
 Stanford Alpaca: An Instruction-following LLaMA Model <br/>
 https://github.com/tatsu-lab/stanford_alpaca <br/>
 <br/>
