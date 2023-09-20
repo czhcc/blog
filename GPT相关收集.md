@@ -177,6 +177,9 @@ https://huggingface.co/wenge-research/yayi-7b <br/>
 伶荔 <br/>
 https://github.com/CVI-SZU/Linly <br/>
 <br/>
+书生 <br/>
+https://huggingface.co/internlm/internlm-20b-chat <br/>
+<br/>
 训练跟踪 <br/>
 https://github.com/aimhubio/aim <br/>
 <br/>
