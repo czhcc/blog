@@ -61,6 +61,7 @@ https://github.com/ypwhs/CreativeChatGLM <br/>
 <br/>
 中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成 <br/>
 https://github.com/yanqiangmiffy/Chinese-LangChain <br/>
+https://github.com/chatchat-space/Langchain-Chatchat <br/>
 <br/>
 BELLE(基于BLOOM和LLAMA针对中文做了优化) <br/>
 https://github.com/LianjiaTech/BELLE <br/>
