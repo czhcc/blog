@@ -211,3 +211,7 @@ https://github.com/modelscope/modelscope-agent/blob/master/README_CN.md <br/>
 FinGLM 金融大模型比赛 <br/>
 https://github.com/MetaGLM/FinGLM <br/>
 <br/>
+零一万物 <br/>
+https://github.com/01-ai/Yi <br/>
+https://huggingface.co/01-ai/Yi-34B <br/>
+<br/>
