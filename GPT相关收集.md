@@ -14,6 +14,10 @@ https://github.com/jerryjliu/llama_index <br/>
 LLama2相关： <br/>
 https://github.com/hpcaitech/ColossalAI/blob/main/docs/README-zh-Hans.md <br/>
 https://github.com/michael-wzhu/Chinese-LlaMA2 <br/>
+<br/>
+悟道 <br/>
+https://github.com/FlagAI-Open/Aquila2 <br/>
+<br/>
 Atom <br/>
 https://github.com/FlagAlpha/Llama2-Chinese <br/>
 <br/>
