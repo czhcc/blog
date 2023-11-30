@@ -11,6 +11,9 @@ https://github.com/LC1332/Chinese-alpaca-lora <br/>
 LlamaIndex <br/>
 https://github.com/jerryjliu/llama_index <br/>
 <br/>
+LLama2相关： <br/>
+https://github.com/hpcaitech/ColossalAI/blob/main/docs/README-zh-Hans.md <br/>
+https://github.com/michael-wzhu/Chinese-LlaMA2 <br/>
 Atom <br/>
 https://github.com/FlagAlpha/Llama2-Chinese <br/>
 <br/>
