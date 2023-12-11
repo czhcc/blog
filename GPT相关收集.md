@@ -223,3 +223,6 @@ https://github.com/MetaGLM/FinGLM <br/>
 https://github.com/01-ai/Yi <br/>
 https://huggingface.co/01-ai/Yi-34B <br/>
 <br/>
+通义千问 <br/>
+https://github.com/QwenLM/Qwen <br/>
+<br/>
