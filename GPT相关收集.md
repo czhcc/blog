@@ -210,6 +210,9 @@ https://github.com/LinkSoul-AI/Chinese-Llama-2-7b <br/>
 NL2SQL <br/>
 https://github.com/yechens/NL2SQL <br/>
 <br/>
+Defog SQLCoder <br/>
+https://github.com/defog-ai/sqlcoder <br/>
+<br/>
 DB-GPT: 用私有化LLM技术定义数据库下一代交互方式 <br/>
 https://github.com/eosphoros-ai/DB-GPT/blob/main/README.zh.md <br/>
 <br/>
