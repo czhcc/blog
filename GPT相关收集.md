@@ -1,6 +1,11 @@
 汇总 <br/>
 https://github.com/wgwang/LLMs-In-China <br/>
 <br/>
+关于智能体框架 <br/>
+https://github.com/langchain-ai/langchain <br/>
+https://github.com/microsoft/autogen <br/>
+https://github.com/mleoking/PromptAppGPT <br/>
+<br/>
 开源中文LLM <br/>
 https://github.com/HqWu-HITCS/Awesome-Chinese-LLM <br/>
 https://github.com/DSXiangLi/DecryptPrompt <br/>
