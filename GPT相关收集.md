@@ -148,6 +148,7 @@ ddg接口说明 <br/>
 https://github.com/deedy5/duckduckgo_search <br/>
 <br/>
 LangChain官网 <br/>
+https://github.com/langchain-ai/langchain <br/>
 https://docs.langchain.com/docs/  <br/>
 https://github.com/hwchase17/langchain <br/>
 https://github.com/gkamradt/langchain-tutorials <br/>
