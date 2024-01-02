@@ -5,6 +5,7 @@ https://github.com/wgwang/LLMs-In-China <br/>
 https://github.com/langchain-ai/langchain <br/>
 https://github.com/microsoft/autogen <br/>
 https://github.com/mleoking/PromptAppGPT <br/>
+https://github.com/modelscope/modelscope-agent/blob/master/README_CN.md <br/>
 <br/>
 开源中文LLM <br/>
 https://github.com/HqWu-HITCS/Awesome-Chinese-LLM <br/>
