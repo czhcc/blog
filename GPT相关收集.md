@@ -219,6 +219,7 @@ https://github.com/LinkSoul-AI/Chinese-Llama-2-7b <br/>
 <br/>
 NL2SQL <br/>
 https://github.com/yechens/NL2SQL <br/>
+https://github.com/vanna-ai/vanna <br/>
 <br/>
 Defog SQLCoder <br/>
 https://github.com/defog-ai/sqlcoder <br/>
