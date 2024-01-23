@@ -240,3 +240,7 @@ https://huggingface.co/01-ai/Yi-34B <br/>
 通义千问 <br/>
 https://github.com/QwenLM/Qwen <br/>
 <br/>
+前端对话 <br/>
+https://github.com/labring/FastGPT <br/>
+https://github.com/lobehub/lobe-chat <br/>
+<br/>
