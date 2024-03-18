@@ -249,3 +249,6 @@ https://github.com/logspace-ai/langflow <br/>
 马斯克公司 <br/>
 https://github.com/xai-org/grok-1 <br/>
 <br/>
+Mixtral 8x7B <br/>
+https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1 <br/>
+<br/>
