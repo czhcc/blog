@@ -246,3 +246,6 @@ https://github.com/lobehub/lobe-chat <br/>
 https://github.com/FlowiseAI/Flowise <br/>
 https://github.com/logspace-ai/langflow <br/>
 <br/>
+马斯克公司 <br/>
+https://github.com/xai-org/grok-1 <br/>
+<br/>
