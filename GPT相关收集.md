@@ -242,6 +242,7 @@ https://github.com/QwenLM/Qwen <br/>
 <br/>
 前端对话 <br/>
 https://github.com/labring/FastGPT <br/>
+https://github.com/langgenius/dify/tree/main <br/>
 https://github.com/lobehub/lobe-chat <br/>
 https://github.com/FlowiseAI/Flowise <br/>
 https://github.com/logspace-ai/langflow <br/>
