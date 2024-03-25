@@ -69,6 +69,9 @@ https://github.com/ypwhs/CreativeChatGLM <br/>
 https://lslfd0slxc.feishu.cn/docx/JAgsd5WVgoZ1bKxYzq0c8gh5neh <br/>
 https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering <br/>
 <br/>
+GLM开发指南 <br/>
+https://github.com/MetaGLM/glm-cookbook <br/>
+<br/>
 清华模型微调 <br/>
 https://github.com/mymusise/ChatGLM-Tuning <br/>
 https://github.com/liucongg/ChatGLM-Finetuning <br/>
