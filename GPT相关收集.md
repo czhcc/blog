@@ -35,6 +35,9 @@ https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca-2 <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca-3 <br/>
 <br/>
+Llama3相关 <br/>
+https://github.com/CrazyBoyM/llama3-Chinese-chat <br/>
+<br/>
 Llama-2中文预训练大模型（训练过程和程序） <br/>
 https://github.com/huxiaosheng123/open-llama2 <br/>
 <br/>
