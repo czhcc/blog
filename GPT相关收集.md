@@ -261,3 +261,6 @@ https://github.com/xai-org/grok-1 <br/>
 Mixtral 8x7B <br/>
 https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1 <br/>
 <br/>
+大模型训练 <br/>
+https://github.com/tencentmusic/cube-studio <br/>
+<br/>
