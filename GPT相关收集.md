@@ -264,3 +264,6 @@ https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1 <br/>
 大模型训练 <br/>
 https://github.com/tencentmusic/cube-studio <br/>
 <br/>
+联通Llama3 <br/>
+https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B <br/>
+<br/>
