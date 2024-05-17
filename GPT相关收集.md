@@ -267,3 +267,6 @@ https://github.com/tencentmusic/cube-studio <br/>
 联通Llama3 <br/>
 https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B <br/>
 <br/>
+微调加速 <br/>
+https://github.com/unslothai/unsloth <br/>
+<br/>
