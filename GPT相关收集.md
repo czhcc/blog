@@ -270,3 +270,6 @@ https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B <br/>
 微调加速 <br/>
 https://github.com/unslothai/unsloth <br/>
 <br/>
+读取网页并转换 <br/>
+https://jina.ai/reader/ <br/>
+<br/>
