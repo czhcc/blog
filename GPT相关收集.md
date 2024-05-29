@@ -246,6 +246,7 @@ https://huggingface.co/01-ai/Yi-34B <br/>
 <br/>
 通义千问 <br/>
 https://github.com/QwenLM/Qwen <br/>
+https://qwen.readthedocs.io/zh-cn/latest/ <br/>
 <br/>
 前端对话 <br/>
 https://github.com/labring/FastGPT <br/>
