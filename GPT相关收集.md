@@ -274,3 +274,6 @@ https://github.com/unslothai/unsloth <br/>
 读取网页并转换 <br/>
 https://jina.ai/reader/ <br/>
 <br/>
+图文 <br/>
+https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md <br/>
+<br/>
