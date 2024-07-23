@@ -277,3 +277,6 @@ https://jina.ai/reader/ <br/>
 图文 <br/>
 https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md <br/>
 <br/>
+RAG查询重写 <br/>
+https://github.com/xbmxb/RAG-query-rewriting <br/>
+<br/>
