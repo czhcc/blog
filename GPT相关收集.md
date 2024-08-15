@@ -1,5 +1,6 @@
 汇总 <br/>
 https://github.com/wgwang/LLMs-In-China <br/>
+https://github.com/WangRongsheng/awesome-LLM-resourses <br/>
 <br/>
 关于智能体框架 <br/>
 https://github.com/langchain-ai/langchain <br/>
