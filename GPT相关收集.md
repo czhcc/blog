@@ -281,3 +281,6 @@ https://github.com/OpenBMB/MiniCPM-V/blob/main/README_zh.md <br/>
 RAG查询重写 <br/>
 https://github.com/xbmxb/RAG-query-rewriting <br/>
 <br/>
+RAG构建 <br/>
+https://github.com/Steven-Luo/MasteringRAG <br/>
+<br/>
