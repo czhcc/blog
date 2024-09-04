@@ -285,3 +285,5 @@ https://github.com/xbmxb/RAG-query-rewriting <br/>
 RAG构建 <br/>
 https://github.com/Steven-Luo/MasteringRAG <br/>
 <br/>
+结构化prompt <br/>
+https://github.com/langgptai/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.md <br/>
