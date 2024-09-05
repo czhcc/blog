@@ -287,3 +287,6 @@ https://github.com/Steven-Luo/MasteringRAG <br/>
 <br/>
 结构化prompt <br/>
 https://github.com/langgptai/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.md <br/>
+<br/>
+小钢炮 <br/>
+https://github.com/OpenBMB/MiniCPM <br/>
