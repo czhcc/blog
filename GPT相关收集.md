@@ -290,3 +290,6 @@ https://github.com/langgptai/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.
 <br/>
 小钢炮 <br/>
 https://github.com/OpenBMB/MiniCPM <br/>
+<br/>
+WordLlama 是一个快速、轻量级的 NLP 工具包，能够处理模糊去重、相似性和排名等任务，具有最小的推理时间依赖性，并且针对 CPU 硬件进行了优化。 <br/>
+https://github.com/dleemiller/WordLlama<br/>
