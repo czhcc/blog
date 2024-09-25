@@ -21,16 +21,6 @@ https://github.com/LC1332/Chinese-alpaca-lora <br/>
 LlamaIndex <br/>
 https://github.com/jerryjliu/llama_index <br/>
 <br/>
-LLama2相关： <br/>
-https://github.com/hpcaitech/ColossalAI/blob/main/docs/README-zh-Hans.md <br/>
-https://github.com/michael-wzhu/Chinese-LlaMA2 <br/>
-<br/>
-悟道 <br/>
-https://github.com/FlagAI-Open/Aquila2 <br/>
-<br/>
-Atom <br/>
-https://github.com/FlagAlpha/Llama2-Chinese <br/>
-<br/>
 中文LLaMA模型和经过指令精调的Alpaca大模型 <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca <br/>
 https://github.com/ymcui/Chinese-LLaMA-Alpaca-2 <br/>
@@ -39,9 +29,6 @@ https://github.com/ymcui/Chinese-LLaMA-Alpaca-3 <br/>
 Llama3相关 <br/>
 https://github.com/CrazyBoyM/llama3-Chinese-chat <br/>
 <br/>
-Llama-2中文预训练大模型（训练过程和程序） <br/>
-https://github.com/huxiaosheng123/open-llama2 <br/>
-<br/>
 Stanford Alpaca: An Instruction-following LLaMA Model <br/>
 https://github.com/tatsu-lab/stanford_alpaca <br/>
 <br/>
@@ -49,14 +36,6 @@ LLaMA <br/>
 https://github.com/facebookresearch/llama <br/>
 模型文件下载 <br/>
 https://ipfs.io/ipfs/Qmb9y5GCkTG7ZzbBWMu2BXwMkzyCKcUjtEKPpgdZ7GEFKm/ <br/>
-<br/>
-Vicuna—UC <br/>
-https://huggingface.co/lmsys/vicuna-13b-delta-v1.1 <br/>
-https://lmsys.org/blog/2023-03-30-vicuna/ <br/>
-<br/>
-有关的一些新微调方式 <br/>
-https://huggingface.co/blog/stackllama <br/>
-https://github.com/lm-sys/FastChat/#fine-tuning <br/>
 <br/>
 chatglm2 <br/>
 https://huggingface.co/THUDM/chatglm2-6b/tree/main <br/>
@@ -77,20 +56,12 @@ https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering <br/>
 GLM开发指南 <br/>
 https://github.com/MetaGLM/glm-cookbook <br/>
 <br/>
-清华模型微调 <br/>
-https://github.com/mymusise/ChatGLM-Tuning <br/>
-https://github.com/liucongg/ChatGLM-Finetuning <br/>
-<br/>
 续写 <br/>
 https://github.com/ypwhs/CreativeChatGLM <br/>
 <br/>
 中文langchain项目，基于ChatGLM-6b+langchain实现本地化知识库检索与智能答案生成 <br/>
 https://github.com/yanqiangmiffy/Chinese-LangChain <br/>
 https://github.com/chatchat-space/Langchain-Chatchat <br/>
-<br/>
-BELLE(基于BLOOM和LLAMA针对中文做了优化) <br/>
-https://github.com/LianjiaTech/BELLE <br/>
-https://huggingface.co/BelleGroup/BELLE-7B-2M <br/>
 <br/>
 OpenChatKit <br/>
 https://github.com/togethercomputer/OpenChatKit <br/>
@@ -113,9 +84,6 @@ https://huggingface.co/IDEA-CCNL/Randeng-TransformerXL-5B-Abduction-Chinese <br/
 https://jerryzou.com/posts/how-to-write-a-prompt-for-chatgpt/ <br/>
 https://open.bigmodel.cn/openpower <br/>
 https://promptstudy.github.io/ <br/>
-<br/>
-HuggingGPT <br/>
-https://github.com/microsoft/JARVIS <br/>
 <br/>
 GPT4ALL <br/>
 https://github.com/nomic-ai/gpt4all <br/>
@@ -141,9 +109,6 @@ https://github.com/sunzeyeah/RLHF <br/>
 百川 <br/>
 https://github.com/baichuan-inc/baichuan-7B <br/>
 <br/>
-TigerBot 虎博 <br/>
-https://github.com/TigerResearch/TigerBot <br/>
-<br/>
 智析提取 <br/>
 https://github.com/zjunlp/KnowLM <br/>
 https://huggingface.co/zjunlp/zhixi-13b-diff <br/>
@@ -151,9 +116,6 @@ https://huggingface.co/zjunlp/zhixi-13b-diff <br/>
 中科院图片分割 <br/>
 https://github.com/CASIA-IVA-Lab/FastSAM <br/>
 https://huggingface.co/spaces/An-619/FastSAM <br/>
-<br/>
-BloomChat开发相关 <br/>
-https://github.com/huggingface/transformers-bloom-inference <br/>
 <br/>
 面向开发者的 ChatGPT 提示词工程 <br/>
 https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese <br/>
@@ -166,9 +128,6 @@ https://github.com/langchain-ai/langchain <br/>
 https://docs.langchain.com/docs/  <br/>
 https://github.com/hwchase17/langchain <br/>
 https://github.com/gkamradt/langchain-tutorials <br/>
-<br/>
-LangChain基于chatglm及Lora应用 <br/>
-https://github.com/liangwq/Chatglm_lora_multi-gpu/tree/main <br/>
 <br/>
 LangChain 中文入门教程 <br/>
 https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide <br/>
@@ -198,17 +157,6 @@ https://github.com/ymcui/Chinese-BERT-wwm <br/>
 Meta 开源能识别 4000 种语言、生成 1000 多种语音大模型 <br/>
 https://github.com/facebookresearch/fairseq/tree/main/examples/mms <br/>
 <br/>
-雅意大模型 <br/>
-https://huggingface.co/wenge-research/yayi-7b <br/>
-<br/>
-伶荔 <br/>
-https://github.com/CVI-SZU/Linly <br/>
-<br/>
-书生 <br/>
-https://huggingface.co/internlm/internlm-20b-chat <br/>
-https://github.com/InternLM <br/>
-https://intern-ai.org.cn/home <br/>
-<br/>
 训练跟踪 <br/>
 https://github.com/aimhubio/aim <br/>
 <br/>
@@ -218,12 +166,6 @@ https://github.com/FlagAI-Open/FlagAI/blob/master/README_zh.md <br/>
 <br/>
 postgresml <br/>
 https://github.com/postgresml/postgresml <br/>
-<br/>
-法律 <br/>
-https://github.com/AndrewZhe/lawyer-llama <br/>
-<br/>
-零速科技 <br/>
-https://github.com/LinkSoul-AI/Chinese-Llama-2-7b <br/>
 <br/>
 NL2SQL <br/>
 https://github.com/yechens/NL2SQL <br/>
@@ -263,12 +205,6 @@ https://github.com/xai-org/grok-1 <br/>
 Mixtral 8x7B <br/>
 https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1 <br/>
 <br/>
-大模型训练 <br/>
-https://github.com/tencentmusic/cube-studio <br/>
-<br/>
-联通Llama3 <br/>
-https://huggingface.co/UnicomLLM/Unichat-llama3-Chinese-8B <br/>
-<br/>
 微调加速 <br/>
 https://github.com/unslothai/unsloth <br/>
 <br/>
@@ -292,4 +228,10 @@ https://github.com/langgptai/LangGPT/blob/main/Docs/HowToWritestructuredPrompts.
 https://github.com/OpenBMB/MiniCPM <br/>
 <br/>
 WordLlama 是一个快速、轻量级的 NLP 工具包，能够处理模糊去重、相似性和排名等任务，具有最小的推理时间依赖性，并且针对 CPU 硬件进行了优化。 <br/>
-https://github.com/dleemiller/WordLlama<br/>
+https://github.com/dleemiller/WordLlama <br/>
+<br/>
+流行的多功能unicode修复工具 <br/>
+github.com/rspeer/python-ftfy <br/>
+<br/>
+用于统计和分析多种语言中的单词频率 <br/>
+github.com/rspeer/wordfreq <br/>
