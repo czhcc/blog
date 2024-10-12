@@ -235,3 +235,6 @@ github.com/rspeer/python-ftfy <br/>
 <br/>
 用于统计和分析多种语言中的单词频率 <br/>
 github.com/rspeer/wordfreq <br/>
+<br/>
+将一个主题转换为长篇文章 <br/>
+https://github.com/stanford-oval/storm <br/>
