@@ -19,9 +19,11 @@ interceptor.install()
 // 执行脚本
 // 示例代码，运行 exec() 会触发异常
 ```
+
 <br/>
 使用ScriptEngineManager调用
 <br/>
+
 ```java
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
@@ -55,13 +57,17 @@ public class SafeScriptWithInterceptor {
     }
 }
 ```
+
 <br/>
+
 ## SecureASTCustomizer：<br/>
+
 使用SecureASTCustomizer在编译时对脚本进行限制。例如，可以禁止导入 java.lang.Runtime 和 java.lang.ProcessBuilder，这样任何涉及操作系统命令的代码将无法编译通过。
 需要增加
 <br/>
-secureCustomizer.setIndirectImportCheckEnabled(true);
+`secureCustomizer.setIndirectImportCheckEnabled(true);`
 <br/>
+
 ```java
 import org.codehaus.groovy.control.CompilerConfiguration
 import org.codehaus.groovy.control.customizers.SecureASTCustomizer
@@ -77,7 +83,11 @@ def shell = new GroovyShell(config)
 // 运行受限的Groovy脚本
 // 任何使用 Runtime.exec() 或 ProcessBuilder 的代码会触发错误
 ```
+
 <br/>
+使用ScriptEngineManager调用
+<br/>
+
 ```java
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
