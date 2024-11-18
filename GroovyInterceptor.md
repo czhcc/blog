@@ -1,4 +1,4 @@
-GroovyInterceptor：
+## GroovyInterceptor：<br/>
 通过实现GroovyInterceptor，可以在运行时拦截和控制特定方法调用。比如，可以拦截 Runtime.exec() 和 ProcessBuilder 的方法调用，阻止执行操作系统命令。
 ```java
 import org.codehaus.groovy.runtime.powerassert.GroovyInterceptor
@@ -19,7 +19,9 @@ interceptor.install()
 // 执行脚本
 // 示例代码，运行 exec() 会触发异常
 ```
-
+<br/>
+<br/>
+```java
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;
 import org.codehaus.groovy.runtime.powerassert.GroovyInterceptor;
@@ -51,9 +53,9 @@ public class SafeScriptWithInterceptor {
         }
     }
 }
-
-
-SecureASTCustomizer：
+```
+<br/>
+## SecureASTCustomizer：<br/>
 使用SecureASTCustomizer在编译时对脚本进行限制。例如，可以禁止导入 java.lang.Runtime 和 java.lang.ProcessBuilder，这样任何涉及操作系统命令的代码将无法编译通过。
 需要增加
 secureCustomizer.setIndirectImportCheckEnabled(true);
