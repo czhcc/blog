@@ -238,3 +238,6 @@ github.com/rspeer/wordfreq <br/>
 <br/>
 将一个主题转换为长篇文章 <br/>
 https://github.com/stanford-oval/storm <br/>
+<br/>
+向量服务 <br/>
+https://github.com/huggingface/text-embeddings-inference <br/>
