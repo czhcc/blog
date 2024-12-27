@@ -241,3 +241,7 @@ https://github.com/stanford-oval/storm <br/>
 <br/>
 向量服务 <br/>
 https://github.com/huggingface/text-embeddings-inference <br/>
+<br/>
+Deepseek对话与API <br/>
+https://chat.deepseek.com/ <br/>
+https://platform.deepseek.com/usage <br/>
