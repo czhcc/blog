@@ -245,3 +245,4 @@ https://github.com/huggingface/text-embeddings-inference <br/>
 Deepseek对话与API <br/>
 https://chat.deepseek.com/ <br/>
 https://platform.deepseek.com/usage <br/>
+https://github.com/deepseek-ai/DeepSeek-V3 <br/>
