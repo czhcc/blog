@@ -250,3 +250,6 @@ https://github.com/deepseek-ai/DeepSeek-V3 <br/>
 微软屏幕识别 <br/>
 https://github.com/microsoft/OmniParser <br/>
 <br/>
+数据表智能体 <br/>
+https://github.com/tablegpt/tablegpt-agent <br/>
+<br/>
