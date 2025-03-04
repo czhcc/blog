@@ -1,4 +1,5 @@
 汇总 <br/>
+https://github.com/GitHubDaily/GitHubDaily <br/>
 https://github.com/wgwang/LLMs-In-China <br/>
 https://github.com/WangRongsheng/awesome-LLM-resourses <br/>
 <br/>
