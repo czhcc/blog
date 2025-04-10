@@ -2,6 +2,7 @@
 https://github.com/GitHubDaily/GitHubDaily <br/>
 https://github.com/wgwang/LLMs-In-China <br/>
 https://github.com/WangRongsheng/awesome-LLM-resourses <br/>
+https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main <br/>
 <br/>
 关于智能体框架 <br/>
 https://github.com/langchain-ai/langchain <br/>
