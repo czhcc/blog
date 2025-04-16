@@ -255,3 +255,5 @@ https://github.com/microsoft/OmniParser <br/>
 数据表智能体 <br/>
 https://github.com/tablegpt/tablegpt-agent <br/>
 <br/>
+以文生图 <br/>
+https://huggingface.co/HiDream-ai/HiDream-I1-Full <br/>
